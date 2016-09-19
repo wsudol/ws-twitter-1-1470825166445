@@ -18,7 +18,9 @@
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
         "node-red-contrib-messagehub-node":"*",
-        "node-red-contrib-ui":"*"
+        "node-red-contrib-ui":"*",
+        "node-red-contrib-googlechart": "*",
+        "node-red-contrib-graphs": "*"
     },
     "engines": {
         "node": "0.12.x"
