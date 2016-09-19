@@ -20,7 +20,8 @@
         "node-red-contrib-messagehub-node":"*",
         "node-red-contrib-ui":"*",
         "node-red-contrib-googlechart": "*",
-        "node-red-contrib-graphs": "*"
+        "node-red-contrib-graphs": "*",
+        "node-red-contrib-freeboard": "*"
     },
     "engines": {
         "node": "0.12.x"
